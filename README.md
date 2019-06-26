@@ -17,7 +17,11 @@
 
 ## 서버 실행 및 웹사이트 접속
 본인이 원하는 경로에 파일을 다운받으셨다면 cmd창에서 해당 경로에 Web 폴더까지 이동합니다.
+
 ex) D:\Python\AI-Website-master\Web 
+
 python server.py 명령으로 server 파일을 실행해준뒤
+
 브라우저에서 Flask 기본 포트번호인 5000번으로 접속합니다.
+
 localhost:5000
