@@ -14,3 +14,10 @@
 [기상청 전국 기온 및 강수량](https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158) : 기상청 정보를 토대로 채소 가격에 영향을 미치는 요인을 분석하기 위해 참고하였습니다.
 
 [월별 배추 가격](https://www.kamis.or.kr/customer/price/retail/period.do?action=monthly&yyyy=2018&period=10&countycode=&itemcategorycode=200&itemcode=211&kindcode=&productrankcode=&convert_kg_yn=N) : 실질적인 국내 월별 배추 가격을 분석하기 위해 참고하였습니다.
+
+## 서버 실행 및 웹사이트 접속
+본인이 원하는 경로에 파일을 다운받으셨다면 cmd창에서 해당 경로에 Web 폴더까지 이동합니다.
+ex) D:\Python\AI-Website-master\Web 
+python server.py 명령으로 server 파일을 실행해준뒤
+브라우저에서 Flask 기본 포트번호인 5000번으로 접속합니다.
+localhost:5000
